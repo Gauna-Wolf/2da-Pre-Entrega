@@ -1,0 +1,1 @@
+let descuento = 1000
